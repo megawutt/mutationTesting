@@ -10,6 +10,7 @@ public class PalindromeTest {
     @Test
     public void whenPalindrome_thanAccept() {
         Palindrome palindromeTester = new Palindrome();
+        // some test commits
         assertTrue(palindromeTester.isPalindrome("noon"));
     }
 //    @Test
